@@ -1,5 +1,4 @@
-import pkg from "chai";
-const { expect } = pkg;
+import { expect } from "chai";
 import hre from "hardhat";
 
 describe("GuestBook", function () {
